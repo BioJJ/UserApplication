@@ -11,15 +11,17 @@ No diretório do back-end, você pode executar:
 Executa o aplicativo no modo de desenvolvimento.
 Abra [http://localhost:3002](http://localhost:3002) '-'
 
-
-```
-
 No diretório do fron-end, você pode executar:
 
 ### `yarn start`
 
 Executa o aplicativo no modo de desenvolvimento.
 Abra [http://localhost:3000](http://localhost:3000) '-'
+
+
+```
+
+
 
 
 #
