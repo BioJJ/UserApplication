@@ -19,12 +19,7 @@ Executa o aplicativo no modo de desenvolvimento.
 Abra [http://localhost:3000](http://localhost:3000) '-'
 
 
-```
 
-
-
-
-#
 ## Aplicações:
 - WEB -> https://github.com/BioJJ/web-user-manager
 - API -> https://github.com/BioJJ/Api-Node-Express
