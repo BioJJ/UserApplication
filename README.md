@@ -1,19 +1,6 @@
 # UserApplication
 sistema de cadastros de usuários e login.
 
-# SegwareApplication
-
-
-## Description
-
-Aplicação onde textos possam ser postados de forma livre e, estes textos, possam ter “upvotes”.  
-
-A aplicação permite:  
-
-Listar os posts atuais e seus “upvotes”;
-Adicionar um novo post;
-Adicionar um “upvote” a um post.
-
 
 ## Running the app
 
