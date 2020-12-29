@@ -6,6 +6,8 @@ sistema de cadastros de usuários e login.
 
 No diretório do back-end, você pode executar:
 
+### `yarn install` -> para instalar as dependencias
+
 ### `yarn start`
 
 Executa o aplicativo no modo de desenvolvimento.
@@ -13,7 +15,9 @@ Abra [http://localhost:3002](http://localhost:3002) '-'
 
 No diretório do fron-end, você pode executar:
 
-### `yarn start`
+### `yarn install` -> para instalar as dependencias
+
+### `yarn start` 
 
 Executa o aplicativo no modo de desenvolvimento.
 Abra [http://localhost:3000](http://localhost:3000) '-'
